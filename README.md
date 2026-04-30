@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     <div align= "center"> <a href=mailto:jisxo@kakao.com> jisxo@kakao.com </a>
     </div>  <br> 
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💥 Tech Stacks </h2> 
     <h4 style="color: #282d33;"> ⚙️ Data Engineering </h4> 
     <div style="margin: 0 auto; text-align: center;" align= "center">
           <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white">
